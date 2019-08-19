@@ -1,0 +1,21 @@
+{
+  "name": "jquery",
+  "description": "learning jQuery",
+  "main": "index.js",
+  "authors": [
+    "mr. Grey"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/windows7lover/homepage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize.css": "^8.0.1",
+    "jquery": "^3.4.1"
+  }
+}
